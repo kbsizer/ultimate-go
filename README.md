@@ -1,11 +1,12 @@
-<p align="center">
 # <img src="gopher.png" alt="gopher" width="300"/> Ultimate Go study guide
 
 [Note: This material has been acquired and actively maintained by Ardan Labs →](https://github.com/ardanlabs/gotraining-studyguide)
 
 [TOC]
 
-## Author: hoanhan.luong@gmail.com
+## Author: [Hoanh An](mailto:hoanhan101@gmail.com)
+
+- https://hoanhan101.github.io/
 
 * [101+ coding interview problems with detailed solutions, test cases, and program analysis →](https://github.com/hoanhan101/algo)
 
